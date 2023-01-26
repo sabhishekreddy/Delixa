@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Delixa/static/css/main.073c9b0a.css",
+    "main.js": "/Delixa/static/js/main.4fe313fc.js",
+    "static/js/787.09514113.chunk.js": "/Delixa/static/js/787.09514113.chunk.js",
+    "static/media/logo.svg": "/Delixa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Delixa/index.html",
+    "main.073c9b0a.css.map": "/Delixa/static/css/main.073c9b0a.css.map",
+    "main.4fe313fc.js.map": "/Delixa/static/js/main.4fe313fc.js.map",
+    "787.09514113.chunk.js.map": "/Delixa/static/js/787.09514113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4fe313fc.js"
+  ]
+}
