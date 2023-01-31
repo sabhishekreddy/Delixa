@@ -1,7 +1,5 @@
 {
   "name": "copy_app",
-  "homepage": "https://sabhishekreddy.github.io/Delixa",
-  "proxy": "http://localhost:5000",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
